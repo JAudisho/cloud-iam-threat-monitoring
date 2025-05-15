@@ -1,0 +1,2 @@
+sns_topic_arn: "arn:aws:sns:us-east-1:123456789012:YourSNSTopic"
+inactive_days_threshold: 30
