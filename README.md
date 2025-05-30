@@ -1,4 +1,4 @@
-# ☁️ Cloud IAM Threat Monitoring System
+# Cloud IAM Threat Monitoring System
 
 A Python-based monitoring solution that audits AWS IAM configurations to detect security risks such as privilege escalation, inactive users, and root account usage. Alerts are triggered through AWS SNS and logs are collected via CloudWatch for analysis.
 
